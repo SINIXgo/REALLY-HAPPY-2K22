@@ -1,0 +1,753 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.04"
+					]
+				]
+			],
+			[
+				1714.28571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.04"
+					]
+				]
+			],
+			[
+				3428.57142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.04"
+					]
+				]
+			],
+			[
+				5142.85714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.04"
+					]
+				]
+			],
+			[
+				6857.14285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.04"
+					]
+				]
+			],
+			[
+				8571.42857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.04"
+					]
+				]
+			],
+			[
+				10285.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.04"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.04"
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.04"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				41116.0714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"phase1"
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.1"
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"phase2"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.1"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.035",
+						"0.05"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"phase1"
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.1"
+					],
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				],
+				null,
+				"Hurt Note"
+			],
+			[
+				82285.7142857143,
+				[
+					[
+						"Cinematics (No HUD)",
+						"0.2",
+						"90"
+					],
+					[
+						"Change Character",
+						"dad",
+						"phase2"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"lyrics",
+						"hush",
+						"ffff"
+					]
+				]
+			],
+			[
+				82714.2857142857,
+				[
+					[
+						"lyrics",
+						"hush little",
+						"ffff"
+					]
+				]
+			],
+			[
+				83142.8571428572,
+				[
+					[
+						"lyrics",
+						"hush little hu",
+						"ffff"
+					]
+				]
+			],
+			[
+				83571.4285714286,
+				[
+					[
+						"lyrics",
+						"hush little human",
+						"ffff"
+					]
+				]
+			],
+			[
+				83892.8571428572,
+				[
+					[
+						"lyrics",
+						"",
+						"ffff"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"lyrics",
+						"dont",
+						"ffff"
+					]
+				]
+			],
+			[
+				84321.4285714286,
+				[
+					[
+						"lyrics",
+						"dont say",
+						"ffff"
+					]
+				]
+			],
+			[
+				84642.8571428572,
+				[
+					[
+						"lyrics",
+						"dont say a",
+						"ffff"
+					]
+				]
+			],
+			[
+				84857.1428571429,
+				[
+					[
+						"lyrics",
+						"dont say a word",
+						"ffff"
+					]
+				]
+			],
+			[
+				85500,
+				[
+					[
+						"lyrics",
+						"",
+						"ffff"
+					]
+				]
+			],
+			[
+				85714.2857142857,
+				[
+					[
+						"lyrics",
+						"mickey",
+						"ffff"
+					]
+				]
+			],
+			[
+				86142.8571428572,
+				[
+					[
+						"lyrics",
+						"mickey gonna",
+						"ffff"
+					]
+				]
+			],
+			[
+				86571.4285714286,
+				[
+					[
+						"lyrics",
+						"mickey gonna watch",
+						"ffff"
+					]
+				]
+			],
+			[
+				87000,
+				[
+					[
+						"lyrics",
+						"mickey gonna watch this",
+						"ffff"
+					]
+				]
+			],
+			[
+				87428.5714285714,
+				[
+					[
+						"lyrics",
+						"mickey gonna watch this whole",
+						"ffff"
+					]
+				]
+			],
+			[
+				87857.1428571429,
+				[
+					[
+						"lyrics",
+						"mickey gonna watch this whole world",
+						"ffff"
+					]
+				]
+			],
+			[
+				88392.8571428571,
+				[
+					[
+						"lyrics",
+						"mickey gonna watch this whole world burn",
+						"ffff"
+					]
+				]
+			],
+			[
+				88821.4285714286,
+				[
+					[
+						"lyrics",
+						"",
+						"ffff"
+					]
+				]
+			],
+			[
+				89035.7142857143,
+				[
+					[
+						"lyrics",
+						"so",
+						"ffff"
+					]
+				]
+			],
+			[
+				89142.8571428571,
+				[
+					[
+						"lyrics",
+						"so just",
+						"ffff"
+					]
+				]
+			],
+			[
+				89571.4285714286,
+				[
+					[
+						"lyrics",
+						"so just re",
+						"ffff"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"lyrics",
+						"so just relax",
+						"ffff"
+					]
+				]
+			],
+			[
+				90428.5714285714,
+				[
+					[
+						"lyrics",
+						"so just relax and ",
+						"ffff"
+					]
+				]
+			],
+			[
+				90857.1428571429,
+				[
+					[
+						"lyrics",
+						"so just relax and close",
+						"ffff"
+					]
+				]
+			],
+			[
+				91285.7142857143,
+				[
+					[
+						"lyrics",
+						"so just relax and close your",
+						"ffff"
+					]
+				]
+			],
+			[
+				91821.4285714286,
+				[
+					[
+						"lyrics",
+						"so just relax and close your eyes",
+						"ffff"
+					]
+				]
+			],
+			[
+				92250,
+				[
+					[
+						"lyrics",
+						"",
+						"ffff"
+					]
+				]
+			],
+			[
+				92571.4285714286,
+				[
+					[
+						"lyrics",
+						"now",
+						"ffff"
+					]
+				]
+			],
+			[
+				93000,
+				[
+					[
+						"lyrics",
+						"now its",
+						"ffff"
+					]
+				]
+			],
+			[
+				93428.5714285714,
+				[
+					[
+						"lyrics",
+						"now its time",
+						"ffff"
+					]
+				]
+			],
+			[
+				93857.1428571429,
+				[
+					[
+						"lyrics",
+						"now its time for",
+						"ffff"
+					]
+				]
+			],
+			[
+				94285.7142857143,
+				[
+					[
+						"lyrics",
+						"now its time for you",
+						"ffff"
+					]
+				]
+			],
+			[
+				95142.8571428571,
+				[
+					[
+						"lyrics",
+						"now its time for you to...",
+						"ffff"
+					]
+				]
+			],
+			[
+				95250,
+				[
+					[
+						"Cinematics (No HUD)",
+						"0.2",
+						"0"
+					]
+				]
+			],
+			[
+				95678.5714285714,
+				[
+					[
+						"lyrics",
+						"",
+						"ffff"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"lyrics",
+						"DIE",
+						"ff0000"
+					],
+					[
+						"Screen Shake",
+						"",
+						"1,0.02"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"lyrics",
+						"",
+						"ff0000"
+					]
+				]
+			],
+			[
+				97714.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				97821.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				97928.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				98035.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				98142.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				104571.428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				104678.571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				104785.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				104892.857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				105107.142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.05"
+					]
+				]
+			],
+			[
+				123428.571428571,
+				[
+					[
+						"Fade Screen",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Fade Screen",
+						"0",
+						"0"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				125142.857142857,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				152571.428571428,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.06"
+					],
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				166285.714285714,
+				[
+					[
+						"Screen Shake",
+						"5,0.05",
+						"5,0.05"
+					]
+				]
+			]
+		]
+	}
+}
