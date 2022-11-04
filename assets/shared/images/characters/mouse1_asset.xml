@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mouse1_assets.png">
+<SubTexture name="mouse down0000" x="603" y="1358" width="599" height="640" frameX="-10" frameY="-7" frameWidth="615" frameHeight="650" />
+<SubTexture name="mouse down0001" x="2332" y="0" width="605" height="636" frameX="-6" frameY="-11" frameWidth="615" frameHeight="650" />
+<SubTexture name="mouse idle0000" x="1202" y="1358" width="608" height="640" frameX="-6" frameY="-27" frameWidth="625" frameHeight="670" />
+<SubTexture name="mouse idle0001" x="0" y="2017" width="613" height="636" frameX="-3" frameY="-31" frameWidth="625" frameHeight="670" />
+<SubTexture name="mouse idle0002" x="0" y="1358" width="603" height="659" frameX="-8" frameY="-8" frameWidth="625" frameHeight="670" />
+<SubTexture name="mouse left0000" x="1162" y="0" width="585" height="670" frameX="-2" frameY="-7" frameWidth="600" frameHeight="680" />
+<SubTexture name="mouse left0001" x="1747" y="0" width="585" height="660" frameX="-2" frameY="-17" frameWidth="600" frameHeight="680" />
+<SubTexture name="mouse right0000" x="0" y="688" width="592" height="670" frameX="-2" frameY="-7" frameWidth="600" frameHeight="680" />
+<SubTexture name="mouse right0001" x="592" y="688" width="585" height="662" frameX="-4" frameY="-15" frameWidth="600" frameHeight="680" />
+<SubTexture name="mouse up0000" x="0" y="0" width="579" height="688" frameX="-3" frameY="-14" frameWidth="598" frameHeight="705" />
+<SubTexture name="mouse up0001" x="579" y="0" width="583" height="682" frameX="-3" frameY="-20" frameWidth="600" frameHeight="705" />
+</TextureAtlas>
